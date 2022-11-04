@@ -31,6 +31,8 @@ public class ErroDeValidacaoHandler {
 			dto.add(erro);
 		});
 		
+		
+		
 		return dto;
 	}
 
