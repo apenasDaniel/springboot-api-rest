@@ -95,5 +95,7 @@ public class Resposta {
 	public void setSolucao(Boolean solucao) {
 		this.solucao = solucao;
 	}
+	
+	
 
 }
